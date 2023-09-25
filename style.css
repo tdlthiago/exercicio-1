@@ -1,0 +1,17 @@
+body{
+    background-color: #708d81;
+}
+h3{
+    color: #f1c40f;;
+}
+#titulo{
+    color:#fffffc;
+}
+
+.semana{
+    border: solid 2px #000;
+    background-color: #f1c40f;
+}
+.materia{
+    color:#e74c3c;
+}
